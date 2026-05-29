@@ -29,3 +29,31 @@ Graduate Software Engineer • MSc Computing Science Student • Full-Stack Deve
 </a>
 
 </p>
+# 🚀 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+🎓 MSc Computing Science Student at Griffith College Dublin
+
+💻 Passionate Full-Stack Developer
+
+📱 Android Application Developer
+
+☁️ Cloud Computing Enthusiast
+
+🤖 AI & Machine Learning Explorer
+
+📍 Dublin, Ireland
+
+I enjoy building scalable software solutions, learning emerging technologies, and solving real-world problems through technology.
+
+---
+
+### 🎯 Currently Looking For
+
+- Graduate Software Engineer
+- Junior Software Engineer
+- Software Developer
+- Full-Stack Developer
+- Backend Developer
+- Mobile Application Developer
