@@ -65,6 +65,3 @@ I enjoy building scalable software solutions, learning emerging technologies, an
 <img src="https://skillicons.dev/icons?i=java,python,kotlin,c,html,css,js,fastapi,mongodb,mysql,sqlite,git,github,linux,aws,azure,tensorflow&perline=6"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tittuerothu&theme=tokyonight"/>
-</p>
