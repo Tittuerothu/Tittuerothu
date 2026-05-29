@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C2FF,50:6A5ACD,100:8A2BE2&text=Tittu%20Erothu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <p align="center">
-<img src="./assets/profile.png" width="220"/>
+<img src="./assets/profile.png" width="220" alt="Tittu Erothu"/>
 </p>
 
 <h1 align="center">Hi , I'm Tittu Erothu</h1>
