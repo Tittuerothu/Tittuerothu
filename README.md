@@ -1,38 +1,52 @@
-# Hi, I'm Tittu Erothu 👋
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Tittu+Erothu+👋;Graduate+Software+Engineer;MSc+Computing+Science+Student;Full-Stack+Developer;Cloud+%26+AI+Enthusiast;Building+Scalable+Software+Solutions" />
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00C2FF,50:6A5ACD,100:8A2BE2&text=Tittu%20Erothu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tittuerothu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Tittuerothu?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Tittuerothu?affiliations=OWNER&style=for-the-badge" />
+  <img src="./assets/profile.png" width="220"/>
+</p>
+
+<h3 align="center">
+Graduate Software Engineer • MSc Computing Science Student • Full-Stack Developer
+</h3>
+
+<p align="center">
+📍 Dublin, Ireland
 </p>
 
 <p align="center">
-  <a href="mailto:tittu200114@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/tittu-erothu">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://tittuerothu.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
+<a href="mailto:tittu200114@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<a href="https://www.linkedin.com/in/tittu-erothu-19b3a42b9/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://tittuerothu.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-I am an MSc Computing Science student at Griffith College Dublin with a strong foundation in software development, cloud computing, mobile application development, and machine learning.
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ1OGx2NjFjZW9iN2N0MnJxNmI4MnN4MWh6MmdtbTR2d3ZqZDh0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-My experience includes developing full-stack web applications, Android applications, automation testing solutions, and AI-powered systems. I enjoy building scalable software solutions, learning new technologies, and solving real-world problems through technology.
+I am an **MSc Computing Science student at Griffith College Dublin** with a strong foundation in software engineering, full-stack development, Android application development, cloud computing, and machine learning.
 
-📍 Dublin, Ireland
+My experience includes developing full-stack web applications, mobile applications, automation testing solutions, and AI-powered systems.
 
-Currently seeking opportunities for:
+I enjoy:
+
+* Building scalable software solutions
+* Learning emerging technologies
+* Solving real-world problems
+* Creating impactful digital products
+* Working with cloud and AI technologies
+
+### 🎯 Currently Seeking
 
 * Graduate Software Engineer
 * Junior Software Engineer
@@ -43,191 +57,323 @@ Currently seeking opportunities for:
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### QA Automation Trainee | CloudQA
+## 🔹 QA Automation Trainee | CloudQA
+
+📅 Jun 2024 – Aug 2025
 
 * Developed automated test scripts using Selenium WebDriver
 * Executed functional and regression testing
-* Collaborated with development teams to identify defects
-* Improved application quality through automation practices
+* Designed and maintained test cases
+* Collaborated with development teams
+* Performed cross-browser testing
 
-### Web Development Intern | Oasis Infobyte
+---
+
+## 🔹 Web Development Intern | Oasis Infobyte
+
+📅 Jan 2024 – May 2024
 
 * Built responsive web applications
-* Developed user-friendly interfaces
-* Improved cross-device compatibility
+* Developed modern user interfaces
+* Improved user experience
+* Enhanced cross-device compatibility
 
-### Cloud Computing Intern | Brain O Vision Solutions
+---
+
+## 🔹 Cloud Computing Intern | Brain O Vision Solutions
+
+📅 Jan 2023 – Jul 2023
 
 * Managed AWS EC2 instances
 * Configured IAM permissions
-* Implemented cloud security fundamentals
+* Implemented cloud security practices
+* Worked with Linux environments
 
 ---
 
-## 🚀 Featured Projects
+# 🔥 Featured Projects
 
-### Social Media Web Application
+<table>
+<tr>
+<td width="50%">
 
-**Tech Stack:** FastAPI, Python, MongoDB, Firebase, Azure Blob Storage
+### 🌐 Social Media Web Application
 
-* Secure user authentication and profile management
-* Tweet posting and social interaction features
-* Real-time timeline updates
-* Image upload integration using Azure Blob Storage
-* Responsive user interface design
+**Tech Stack**
 
----
+FastAPI • Python • MongoDB • Firebase • Azure Blob Storage
 
-### Smart Navigation & Compass Application
+#### Features
 
-**Tech Stack:** Kotlin, Jetpack Compose, GPS, Sensors, Room Database
+* User Authentication
+* Profile Management
+* Tweet Posting
+* Follow / Unfollow
+* Real-time Timeline
+* Image Upload Support
 
-* Real-time GPS navigation
-* Compass-based waypoint tracking
-* Interactive gesture controls
-* Location-aware navigation system
-* Battery-efficient sensor management
+🔗 Repository
 
----
+https://github.com/Tittuerothu/Portfolio
 
-### Deep Learning Classification & NLP Research
+</td>
 
-**Tech Stack:** Python, TensorFlow, Keras, BERT, CNN, LSTM
+<td width="50%">
 
-* Image and text classification systems
-* Transfer learning and model fine-tuning
-* News topic classification using BERT
-* Deep learning performance comparison studies
-* Model interpretability and evaluation
+### 🧭 Smart Navigation App
 
----
+**Tech Stack**
 
-### Meeting Room Booking Management System
+Kotlin • Jetpack Compose • GPS • Sensors • Room DB
 
-**Tech Stack:** FastAPI, MongoDB, Firebase, Azure Blob Storage
+#### Features
 
-* Real-time room scheduling
-* Conflict detection and booking validation
-* Calendar-based reservation management
-* Secure authentication and authorization
+* GPS Navigation
+* Compass Tracking
+* Waypoint Management
+* Gesture Controls
+* Sensor Integration
 
----
+🔗 Repository
 
-### Budget Tracker Mobile Application
+https://github.com/Tittuerothu/GPAWAYPOINT1
 
-**Tech Stack:** Kotlin, Jetpack Compose, MVVM, Room Database
-
-* Expense and income tracking
-* Category-based budgeting
-* Monthly analytics dashboard
-* Offline data persistence
-* Automated financial summaries
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
+<table>
+<tr>
+<td width="50%">
 
-### Programming Languages
+### 🧠 Deep Learning & NLP Research
+
+**Tech Stack**
+
+Python • TensorFlow • Keras • CNN • LSTM • BERT
+
+#### Features
+
+* Image Classification
+* NLP Classification
+* Transfer Learning
+* Fine-Tuning Models
+* Performance Evaluation
+
+🔗 Repository
+
+https://github.com/Tittuerothu/deep-learning-image-nlp-classification
+
+</td>
+
+<td width="50%">
+
+### 🏢 Meeting Room Booking System
+
+**Tech Stack**
+
+FastAPI • MongoDB • Firebase • Azure Blob Storage
+
+#### Features
+
+* Room Scheduling
+* Calendar Management
+* Conflict Detection
+* Authentication
+* Booking Validation
+
+🔗 Repository
+
+https://github.com/Tittuerothu/RoomBooking3195210
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 💰 Budget Tracker Application
+
+**Tech Stack**
+
+Kotlin • Jetpack Compose • MVVM • Room Database
+
+#### Features
+
+* Expense Tracking
+* Income Management
+* Budget Planning
+* Analytics Dashboard
+* Offline Support
+
+🔗 Repository
+
+https://github.com/Tittuerothu/Simple-Budget-Planner
+
+</div>
+
+---
+
+# ⚡ Skills & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,kotlin,c,mysql,mongodb,html,css,js,fastapi,git,github,linux,aws,azure,tensorflow&perline=8"/>
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tittuerothu&theme=tokyonight"/>
+</p>
+
+---
+
+# 🛠 Technical Skills
+
+### 💻 Programming Languages
 
 Java • Python • Kotlin • SQL • C
 
-### Web Development
+### 🌐 Web Development
 
 FastAPI • REST APIs • HTML • CSS • JavaScript
 
-### Mobile Development
+### 📱 Mobile Development
 
-Android Development • Jetpack Compose • MVVM Architecture • Room Database
+Android Development • Jetpack Compose • MVVM • Room Database
 
-### Databases
+### 🗄 Databases
 
 MongoDB • MySQL • SQLite
 
-### Machine Learning & AI
+### 🤖 Machine Learning & AI
 
-TensorFlow • Keras • Scikit-Learn • Pandas • NumPy • BERT • CNN • LSTM
+TensorFlow • Keras • Pandas • NumPy • Scikit-Learn • CNN • LSTM • BERT
 
-### Cloud & DevOps
+### ☁ Cloud & DevOps
 
 AWS EC2 • Azure Blob Storage • Linux • Git • GitHub
 
-### Testing
+### 🧪 Testing
 
 Selenium WebDriver • Test Automation • Functional Testing • Regression Testing • Cross-Browser Testing
 
 ---
 
-## ⚡ Skills & Technologies
+# 🎓 Education
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,kotlin,html,css,js,fastapi,mongodb,mysql,sqlite,aws,azure,git,github,linux,tensorflow" />
-</p>
+### 🎓 MSc Computing Science
+
+Griffith College Dublin
+
+2025 – 2026
 
 ---
 
-## 📚 Education
-
-### MSc Computing Science
-
-Griffith College Dublin
-2025 – 2026
-
-### B.Tech Computer Science & Engineering
+### 🎓 B.Tech Computer Science & Engineering
 
 MLR Institute of Technology
+
 2021 – 2025
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
-* AWS Academy Cloud Foundations
-* Python Programming Certification
-* HackerRank Java (5★)
+<table>
+<tr>
+<td align="center">
+
+### ☁ AWS Academy
+
+Cloud Foundations
+
+</td>
+
+<td align="center">
+
+### 🐍 Python Programming
+
+Networking Academy
+
+</td>
+
+<td align="center">
+
+### ⭐ HackerRank Java
+
+5 Star Badge
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Career Objective
+# 🎯 Career Objective
 
-Passionate about software engineering, cloud technologies, and modern application development. I am eager to contribute to innovative teams where I can apply my technical skills, continue learning, and build impactful software solutions.
+Passionate about software engineering, cloud technologies, and modern application development.
+
+I am eager to contribute to innovative teams where I can apply my technical skills, continue learning, and build impactful software solutions.
 
 ---
 
-## 📊 GitHub Analytics
+# 🌟 Open To Opportunities
+
+<div align="center">
+
+🟢 Available for
+
+Graduate Software Engineer
+
+Junior Software Engineer
+
+Software Developer
+
+Full-Stack Developer
+
+Backend Developer
+
+Mobile Application Developer
+
+</div>
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tittuerothu&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tittuerothu&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tittuerothu&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="mailto:tittu200114@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tittu-erothu-19b3a42b9/">
+<img src="https://img.shields.io/badge/LinkedIn-Tittu_Erothu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://tittuerothu.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🏅 GitHub Trophies
+<div align="center">
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tittuerothu&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+### 💙 Code • Innovate • Automate • Scale
 
----
+#### Building today, for a smarter tomorrow.
 
-## 🌐 Connect With Me
+</div>
 
-📧 Email: [tittu200114@gmail.com](mailto:tittu200114@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/tittu-erothu/
-
-🌐 Portfolio: https://tittuerothu.github.io/Portfolio/
-
-⭐ Open to Graduate Software Engineer, Junior Software Engineer, Software Developer, Full-Stack Developer, Backend Developer, and Mobile Application Developer opportunities.
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C2FF,50:6A5ACD,100:8A2BE2"/>
