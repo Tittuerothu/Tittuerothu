@@ -1,8 +1,6 @@
 # Hi, I'm Tittu Erothu 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Graduate+Software+Engineer;MSc+Computing+Science+Student;Full-Stack+Developer;Cloud+%26+AI+Enthusiast;Building+Scalable+Software+Solutions" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tittuerothu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
