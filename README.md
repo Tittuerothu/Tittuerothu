@@ -5,274 +5,240 @@
 <img src="./assets/profile.png" width="220" alt="Tittu Erothu"/>
 </p>
 
-<h1 align="center">Hi , I'm Tittu Erothu</h1>
+<h1 align="center">Hi, I'm Tittu Erothu 👋</h1>
 
 <h3 align="center">
-Graduate Software Engineer • MSc Computing Science Student • Full-Stack Developer
+Software Developer • Full-Stack Engineer • SaaS & AI Systems
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Graduate+Software+Engineer;Full-Stack+Developer;Cloud+%26+AI+Enthusiast;Android+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Ruby+on+Rails+%7C+React+%7C+TypeScript;Backend+%26+API+Engineering;Cloud+%26+DevOps+Enthusiast;Building+AI-Powered+Applications"/>
 </p>
 
 <p align="center">
-
-<a href="mailto:tittu200114@gmail.com">
+<a href="mailto:erothutittu@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/tittu-erothu-19b3a42b9/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://tittuerothu.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-🎓 MSc Computing Science Student at Griffith College Dublin
+💻 Full-Stack Software Engineer with 3+ years of experience
 
-💻 Passionate Full-Stack Developer
+🌐 Experienced in Ruby on Rails, React, TypeScript and Node.js
 
-📱 Android Application Developer
+⚙️ Backend engineering, REST APIs, GraphQL and microservices
 
-☁️ Cloud Computing Enthusiast
+🗄️ Database design, PostgreSQL and query optimisation
 
-🤖 AI & Machine Learning Explorer
+☁️ Cloud infrastructure, AWS, Azure and GCP
+
+🤖 Generative AI, LLM integration and RAG systems
 
 📍 Dublin, Ireland
 
-I enjoy building scalable software solutions, learning emerging technologies, and solving real-world problems through technology.
+🎓 MSc Computing Science, Griffith College Dublin (2025–2026)
+
+I enjoy building scalable web applications, designing reliable APIs, improving application performance and developing AI-powered solutions. I focus on writing maintainable code, creating responsive user experiences and delivering features that solve real-world problems.
 
 ---
 
-### 🎯 Currently Looking For
+## 🎯 Career Interests
 
-- Graduate Software Engineer
-- Junior Software Engineer
-- Software Developer
+- Software Engineer
 - Full-Stack Developer
-- Backend Developer
-- Mobile Application Developer
+- Backend Software Engineer
+- Cloud Software Engineer
+- AI Application Engineer
 
 ---
 
-<h1 align="center">⚡ Skills & Technologies</h1>
+## ⚡ Skills & Technologies
+
+### 💻 Languages & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,ruby,rails,react,nodejs,nextjs,nestjs,python,java,angular,html,css"/>
+</p>
+
+**Languages:** TypeScript, JavaScript, Ruby, Python, Java
+
+**Frameworks:** Ruby on Rails, React, Node.js, Next.js, NestJS, Java Spring Boot, Angular
+
+### 🔌 Backend & API Engineering
+
+- REST APIs and GraphQL
+- Microservices and gRPC
+- OAuth2 and JWT authentication
+- System architecture and ORM design
+- API security and query optimisation
+
+### 🗄️ Databases & Messaging
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb"/>
+</p>
+
+- PostgreSQL, MySQL, Redis and MongoDB
+- Qdrant vector database
+- Apache Kafka and MQTT
+- Relational schema design and database migrations
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux"/>
+</p>
+
+- AWS: ECS, Lambda and S3
+- Microsoft Azure and Google Cloud Platform
+- Docker and Docker Compose
+- Kubernetes and Helm
+- Terraform and Pulumi
+
+### 🧪 Testing & Quality Engineering
+
+- Jest, Playwright and PyTest
+- JUnit 5 and Mockito
+- Testcontainers and REST Assured
+- Postman and Swagger/OpenAPI
+- Integration testing, TDD and BDD
+- Code reviews and software quality assurance
+
+### 🔄 DevOps & Monitoring
+
+- GitHub Actions, GitLab CI and Jenkins
+- AWS CodePipeline
+- Maven, Gradle and Nexus
+- SonarQube
+- Dynatrace, Datadog, Prometheus and Grafana
+- Git, Linux, Jira and Confluence
+
+### 🤖 AI & Emerging Technologies
+
+- Generative AI and LLM integration
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI workflows
+- AI-assisted development using GitHub Copilot, Cursor and Claude
+- Semantic search using vector databases
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 Full-Stack Software Engineer
+**Boven Technologies, India (Remote)**
+
+📅 April 2025 – September 2026
+
+- Owned end-to-end features across PostgreSQL schemas, Node.js/Go APIs and React interfaces for financial products serving over 2 million daily active users.
+- Designed database schemas and reduced query response times by 42% on high-volume endpoints.
+- Built REST and GraphQL APIs supporting payment volumes exceeding $10 million daily, achieving 99.99% uptime.
+- Improved user interactions using React and TypeScript, increasing checkout conversions by 18%.
+- Collaborated with a Dublin-based engineering team to establish CI/CD practices and deliver features within 48 hours.
+
+### 🔹 Software Engineer
+**Boven Technologies, India**
+
+📅 August 2023 – March 2025
+
+- Developed enterprise features using PostgreSQL, Java Spring Boot and Angular.
+- Designed relational database schemas and migration scripts for multi-tenant systems with zero downtime.
+- Built secure REST APIs using OAuth2 authentication, handling over 1 million monthly API calls.
+- Improved component loading times by 30% through better state management and UI optimisation.
+- Participated in Agile ceremonies and code reviews within a 20-person engineering team.
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 Enterprise RAG & Agentic Knowledge Assistant
+
+**Technologies:** Ruby on Rails, React, TypeScript, Python, Qdrant
+
+- Engineered a multi-agent AI system for enterprise data retrieval.
+- Worked with vector search and semantic retrieval.
+- Focused on making enterprise knowledge easier to access through AI.
+
+### 🤖 Automated AI Code Review & Evaluation Suite
+
+**Technologies:** TypeScript, React, Node.js, GitHub Actions, LLMs
+
+- Developed a GitHub Action for automated AI code review and evaluation.
+- Integrated LLM evaluation harnesses into peer code reviews.
+- Focused on improving code review workflows and engineering productivity.
+
+---
+
+## 🏆 Key Achievements
+
+### ⚡ Database Performance Optimisation
+Reduced high-volume database query response times by **42%** through database schema design and query optimisation.
+
+### 📈 Checkout Conversion Improvement
+Increased checkout conversions by **18%** through React and TypeScript interface improvements.
+
+### 🚀 Production API Reliability
+Achieved **99.99% uptime** for REST and GraphQL APIs supporting over **$10 million in daily payment volume**.
+
+### 🤖 AI-Powered Semantic Search
+Achieved **sub-200ms semantic search retrieval** and reduced document review times by **60%** using Python and Qdrant.
+
+### ⚙️ Engineering Process Automation
+Built production agentic workflows with Node.js and NestJS, helping accelerate release pipelines and saving **12,000+ manual hours annually**.
+
+---
+
+## 🎓 Education
+
+### Master of Science (MSc), Computing Science
+**Griffith College Dublin, Dublin, Ireland**
+
+📅 September 2025 – September 2026
+
+Relevant coursework:
+- Advanced Web Application Architecture
+- Relational SQL Database Systems
+- Software Quality & Unit Testing
+- Agile Methods
+
+---
+
+## 📜 Certifications
+
+- AWS Certified Developer – Associate (LinkedIn)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://readme-components.vercel.app/api?component=text&text=Tech%20Stack&fill=black&textfill=15d8fe"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tittuerothu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tittuerothu&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,kotlin,c,html,css,js,fastapi,mongodb,mysql,sqlite,git,github,linux,aws,azure,tensorflow&perline=6"/>
-</p>
-
-<br>
-
-<div align="center">
-
-🖥️ Java • Python • Kotlin • SQL • C
-
-🌐 FastAPI • HTML • CSS • JavaScript • REST APIs
-
-📱 Android • Jetpack Compose • MVVM • Room Database
-
-🗄️ MongoDB • MySQL • SQLite
-
-☁️ AWS • Azure • Linux • Git • GitHub
-
-🤖 TensorFlow • CNN • LSTM • BERT
-
-</div>
-
----
-
-# 💼 Professional Experience
-
-## 🔹 Web Development Intern | Oasis Infobyte
-
-📅 Jan 2024 – May 2024
-
-✔ Responsive Web Applications
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
-✔ UI Development
-
----
-
-## 🔹 Cloud Computing Intern | Brain O Vision
-
-📅 Jan 2023 – Jul 2023
-
-✔ AWS EC2
-
-✔ IAM
-
-✔ Linux
-
-✔ Cloud Security Fundamentals
-
----
-
-<h1 align="center">🔥 Featured Projects</h1>
-
-<table width="100%">
-
-<tr>
-
-<td width="50%">
-
-<h3>🌐 Social Media Web Application</h3>
-
-FastAPI • Python • MongoDB • Firebase • Azure
-
-✅ User Authentication
-
-✅ Profile Management
-
-✅ Real-time Timeline
-
-✅ Azure Image Upload
-
-<a href="https://github.com/Tittuerothu/Portfolio">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3>🧭 Smart Navigation App</h3>
-
-Kotlin • GPS • Sensors • RoomDB
-
-✅ GPS Navigation
-
-✅ Compass Tracking
-
-✅ Waypoint System
-
-✅ Gesture Controls
-
-<a href="https://github.com/Tittuerothu/GPAWAYPOINT1">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<h3>🧠 Deep Learning NLP Project</h3>
-
-TensorFlow • CNN • LSTM • BERT
-
-✅ Image Classification
-
-✅ NLP Classification
-
-✅ Transfer Learning
-
-<a href="https://github.com/Tittuerothu/deep-learning-image-nlp-classification">
-View Repository →
-</a>
-
-</td>
-
-<td>
-
-<h3>🏢 Meeting Room Booking System</h3>
-
-FastAPI • MongoDB • Firebase
-
-✅ Room Scheduling
-
-✅ Authentication
-
-✅ Conflict Detection
-
-<a href="https://github.com/Tittuerothu/RoomBooking3195210">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-
----
-
-# 🎓 Education
-
-## MSc Computing Science
-
-🏛 Griffith College Dublin
-
-📅 2025 – 2026
-
----
-
-## B.Tech Computer Science & Engineering
-
-🏛 MLR Institute of Technology
-
-📅 2021 – 2025
-
----
-
-# 🏆 Certifications
-
-☁ AWS Academy Cloud Foundations
-
-🐍 Python Programming Certification
-
-⭐ HackerRank Java (5★)
-
----
-
-<h1 align="center">🎯 Open To Work</h1>
-
-<p align="center">
-
-🟢 Graduate Software Engineer
-
-🟢 Junior Software Engineer
-
-🟢 Software Developer
-
-🟢 Full-Stack Developer
-
-🟢 Backend Developer
-
-🟢 Mobile Application Developer
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tittuerothu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
 <h3 align="center">
-💙 Code • Build • Learn • Grow
+💙 Code • Build • Optimise • Innovate
 </h3>
 
 <p align="center">
-Building software today for a smarter tomorrow 🚀
+Building scalable software and intelligent applications for real-world impact 🚀
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C2FF,50:6A5ACD,100:8A2BE2"/>
